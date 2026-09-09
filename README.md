@@ -234,4 +234,4 @@ This repository serves as the official landing page for Adobe Type Manager. The 
 **Get the most recent version of Adobe Type Manager today!**
 
 ---
-**Last updated:** 2026-09-08 23:10:31 UTC
+**Last updated:** 2026-09-09 02:58:40 UTC
